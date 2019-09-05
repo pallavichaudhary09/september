@@ -1,6 +1,18 @@
-hey ...
-uyfeghj
+For pull, push,collaboration
 
-my name is pallavi.
+git link: https://github.com/pallavichaudhary09/genpact_noida.git
 
-i live in noida.
+
+username - pallavichaudhary09
+username - shubhanshugupta95
+
+_____________________________________________________________________________________________
+
+
+For branching and merging
+
+git link - https://github.com/pallavichaudhary09/september.git
+
+username - pallavichaudhary09
+username - shubhanshugupta95
+
